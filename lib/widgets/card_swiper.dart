@@ -13,7 +13,7 @@ class CardSwiper extends StatelessWidget {
       width: double.infinity,
       height: size.height * 0.5 ,
       //color temporal
-      color: Colors.red,
+      // color: Colors.red,
       child: Swiper(
         itemCount: 10,
         layout: SwiperLayout.STACK,

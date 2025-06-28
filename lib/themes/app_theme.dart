@@ -13,6 +13,20 @@ class AppTheme {
       foregroundColor: Colors.black
     ),
 
+    //tema para Text
+    textTheme: TextTheme(
+      titleLarge: TextStyle(
+        color: Colors.black,
+        fontFamily: 'Outfit',
+        fontWeight: FontWeight.bold,
+      ),
+
+      bodyLarge: TextStyle(
+        fontFamily: 'Outfit',
+        fontWeight: FontWeight.w400
+      )
+    )
+
   );
 
 }
