@@ -10,6 +10,12 @@ class HomeScreen extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: Text('Películas en cines', style: Theme.of(context).textTheme.titleLarge),
+        actions: [
+          IconButton(
+            onPressed: (){}, 
+            icon: Icon(Icons.search)
+          )
+        ],
       ),
       body: SingleChildScrollView(
         child: Column(
