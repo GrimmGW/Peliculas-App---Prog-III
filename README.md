@@ -1,5 +1,5 @@
 
-# Programación III - Películas App
+# 🎬 Programación III - Películas App
 
 Última aplicación para el curso de Programación III del periodo abril-julio 2025. 
 
@@ -8,7 +8,7 @@ En esta app podrán ver las películas más taquilleras con *InfiniteScroll* as�
 
 
 
-## ¿Cómo instalarlo?
+## ⬇️ ¿Cómo instalarlo?
 
 #### En Android:
 
@@ -19,7 +19,7 @@ Instalar **.apk** desde Google Drive, link en Moodle.
 Aún no disponible (tampoco lo estará).
 
 
-## Autor:
+## 🙂‍↕️ Autor:
 
 - Prof. Ing. Hector "Grimm" Luna
 
