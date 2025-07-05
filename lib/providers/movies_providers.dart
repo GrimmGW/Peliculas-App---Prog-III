@@ -6,7 +6,7 @@ import 'package:peliculas_app/models/models.dart';
 
 class MoviesProvider extends ChangeNotifier{
 
-  final String _apiKey = '2136248d54a84c6f12f8956d99ac2ace';
+  final String _apiKey = 'USEN SU PROPIA API_KEY';
   final String _baseUrl = 'api.themoviedb.org';
   final String _language = 'es-ES';
 
