@@ -1,7 +1,7 @@
 
 # 🎬 Programación III - Películas App
 
-https://imgur.com/a/zEB8tqj
+(https://i.imgur.com/8gSJJle.png)
 
 Última aplicación para el curso de Programación III del periodo abril-julio 2025. 
 
